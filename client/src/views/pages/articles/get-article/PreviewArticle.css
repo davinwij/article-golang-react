@@ -1,0 +1,19 @@
+.paginationButton {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  height: 40px;
+}
+
+.paginationButton a {
+  padding: 2px 5px;
+  background-color: white;
+  border: 1px solid grey;
+  border-radius: 2px;
+  text-decoration: none;
+}
+
+.activeButton {
+  color: red;
+}
