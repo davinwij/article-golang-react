@@ -1,6 +1,6 @@
 ## Quick Start
 
-- Clone the repo: `git clone https://github.com/davinwij/article-golang-fullstack.git`
+- Clone the repo: `git clone https://github.com/davinwij/article-golang-react.git`
 
 ### Instalation
 
